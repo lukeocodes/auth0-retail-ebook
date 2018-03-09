@@ -30,8 +30,6 @@ Another big place that companies are constantly tweaking with the help of *retai
 
 The digital age birthed more sales channels than ever before, and now it's rushing to catch up to them. Consumers find their way to products across social media, shopping websites, word of mouth, meatspace ad campaigns, emails, and magazines. To track all of these channels is difficult, but *retail analytics* is getting better at tracking across devices and digital channels to give a better idea of **which ads are working online**. 
 
-{% include tweet_quote.html quote_text="The digital age birthed more sales channels than ever before, and now it's rushing to catch up to them." %}
-
 **Ad targeting** is another area that can be positively influenced by *retail analytics*. As users login with their social accounts for eCommerce sites, see targeted ads on social media, and are retargeted after purchase, more information about their demographics, habits, likes, and dislikes are gathered. This means that *retail analytics* can streamline ad targeting for happier customers and happier marketers. 
 
 ![Retail Analytics - Interest Targeting](https://cdn.auth0.com/blog/past-present-future/but-no-one-else-would-trick.jpg)
