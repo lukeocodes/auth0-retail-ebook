@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Retail Analytics: Past, Present, and Future](chapter1.md)
