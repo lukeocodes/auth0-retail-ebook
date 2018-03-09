@@ -1,7 +1,7 @@
 # Summary
 
 * [Retail analytics](retail-analytics/summary.md)
-  * [What can you expect from retail analytics?](retail-analytics/summary.md)
+  * [What can you expect from retail analytics?](retail-analytics/what-can-you-expect.md)
   * [Trends in retail analytics](retail-analytics/trends.md)
   * [Getting your data together](retail-analytics/conclusion.md)
 * [How Data Analytics Can Transform Your Business](how-data-analytics-can-transform-your-business.md)
