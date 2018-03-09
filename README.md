@@ -1,8 +1,7 @@
 <center>
-Auth0 in Retail<br/>
-Luke Oliff<br/>
-Auth0, Inc.<br/>
-Version 0.0.1<br/>
+<h3>Auth0 in Retail</h3><br/>
+<h4>Luke Oliff, Auth0 Inc.</h4><br/>
+<h5>Version 1, March 2018<h5>
 </center>
 
 
