@@ -1,4 +1,4 @@
-## Getting your data together
+# Getting your data together
 
 The more that eCommerce progresses, the better *retail analytics* is going to get. Right now, companies and platforms have the capability to collect a huge amount of data, but we're still in the process of refining [how to use it](https://auth0.com/blog/all-you-need-to-know-about-data-management-and-integration/). Marketing is getting smarter and optimizations are being made all the time. From startups to the enterprise, eCommerce software is trying hard to figure out the best ways to help companies use customer data.
 

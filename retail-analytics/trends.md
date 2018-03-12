@@ -1,8 +1,8 @@
-## Trends in retail analytics
+# Trends in retail analytics
 
 Digital retailing has both given a boost to traditional *retail analytics* and allowed companies to create new ways to follow their digital commerce. While companies are going to continue to refine *retail analytics*, the *retail analytics* trends of today are strongly tied to our ideas about multichannel commerce and will likely continue in this vein. 
 
-### Oldies but goodies
+## Oldies but goodies
 
 Let's start out with some of the “traditional” *retail analytics* that have stood the test of time. These are some baseline heavy-hitters. Where before, people might have tracked these manually, they have now been supercharged by contemporary analytics platforms. 
 
@@ -10,7 +10,7 @@ Let's start out with some of the “traditional” *retail analytics* that have 
 
 * **“Traditional” marketing analytics.** Marketing has been around forever, and old-school analytics have made their way over to digital. Tracking the basics of marketing campaigns is easier with marketing tools, and many of them put bells and whistles on basic marketing stats, like ROI on mailing campaigns. Google Analytics or built-in analytics on platforms like Facebook Business often serve as an easy way into this type of data.
 
-### New kids on the block
+## New kids on the block
 
 What's happening in *retail analytics* today isn't just refreshed POS analytics. More data is being collected, which means there's more to dive into. The *retail analytics* trends of today are focused on looking at more micro-level actions or strings of actions that are predictive, rather than simply using analytics to form assessments of marketing schemes or to find macro trends. 
 
@@ -24,7 +24,7 @@ What's happening in *retail analytics* today isn't just refreshed POS analytics.
 
 * **Omnichannel analytics.** With all of the different platforms available to customers, and all of the paths customers take to purchase, getting a robust view of how your customers are purchasing across platforms and devices is crucial. While some software, like [Sellbrite](https://www.sellbrite.com/ecommerce-reporting/), include multi-channel eCommerce reporting, companies also turn to their IAM to help them stitch together [customer identities](https://auth0.com/blog/the-three-best-ways-to-create-the-single-vision-of-a-customer/) across channels. This can help eCommerce companies build and track brand experiences.
 
-### The future 
+## The future 
 
 Moving commerce online was the first in a series of chain reactions that have opened an entirely new world for retail and marketing. Even though technology and techniques seem to move at lightening speed, the truth is that eCommerce, shopping and marketing analysis, and behavioral analysis of customers has been slow to perfect. While getting targeting capabilities, cart abandonment numbers, and CTR stats has been quick, true customization for retailers, shoppers, and marketers is just beginning. 
 
