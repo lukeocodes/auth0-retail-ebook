@@ -4,8 +4,9 @@ Don't be overwhelmed by the thought of implementing data analytics in your busin
 
 Before you dive headfirst into your data, we've put together 4 steps to help you get started.
 
-![Data Analytics - Four Step Process](https://cdn.auth0.com/blog/datalytics/four-step-process.png)
-_Data Analytics - Four Step Process_
+<center>
+<img src="https://cdn.auth0.com/blog/datalytics/four-step-process.png" alt="Data Analytics - Four Step Process" />
+</center>
 
 **Step 1: Set clear objectives.** Data analytics should always start with a business objective. Are you trying to reduce fuel costs like UPS or reduce customer churn like T-Mobile? Once you establish your goals, it will be much easier to figure out your questions and the data you will need to find answers.
 
