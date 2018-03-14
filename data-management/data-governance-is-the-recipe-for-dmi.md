@@ -8,6 +8,9 @@ A comprehensive data governance plan defines user rights, security policies, and
 
 Data governance is the blueprint on how your company manages its data, focusing on three areas: people, policy, and technology.
 
-![Governance](https://cdn.auth0.com/blog/dmi/governance.png)
+<center>
+<img src="https://cdn.auth0.com/blog/dmi/governance.png" alt="Governance" />
+</center>
+
 
 Data analysts currently waste most of their time, up to [80%](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/#10a8aa6a6f63), identifying and processing data to use before doing any analysis. Good data governance should alleviate this by providing the plan and structure for data to be secure, easily found, and shared among people with the appropriate permissions.

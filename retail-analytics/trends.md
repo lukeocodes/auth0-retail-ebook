@@ -18,9 +18,10 @@ What's happening in *retail analytics* today isn't just refreshed POS analytics.
 
 * **Sentiment analysis.** Sentiment analysis is a new way of determining how customers and potential buyers feel about your product. It uses text analysis to determine how your customers are talking about your products on channels from on-site product reviews to comments on your social pages. [Sentiment analysis](https://auth0.com/blog/4-ways-to-calculate-your-customers-happiness) helps predict trends, gauge customer reactions to products and marketing materials, and can be the missing link that explains sales fluctuations.
 
-![Retail Analytics - Social media real time sentiment analysis](https://cdn.auth0.com/blog/past-present-future/social-media-realtime-sentiments.png)
+<center>
+<img src="https://cdn.auth0.com/blog/past-present-future/social-media-realtime-sentiments.png" alt="Retail Analytics - Social media real time sentiment analysis" />
+</center>
 
-[[Source](https://www.linkedin.com/pulse/introducing-social-media-real-time-sentiment-analysis-debajani)]
 
 * **Omnichannel analytics.** With all of the different platforms available to customers, and all of the paths customers take to purchase, getting a robust view of how your customers are purchasing across platforms and devices is crucial. While some software, like [Sellbrite](https://www.sellbrite.com/ecommerce-reporting/), include multi-channel eCommerce reporting, companies also turn to their IAM to help them stitch together [customer identities](https://auth0.com/blog/the-three-best-ways-to-create-the-single-vision-of-a-customer/) across channels. This can help eCommerce companies build and track brand experiences.
 
@@ -32,6 +33,7 @@ Moving commerce online was the first in a series of chain reactions that have op
 
 * **More IoT data.** It's no secret that the IoT has more and more [use cases](https://www.interana.com/blog/the-top-iot-analytics-use-cases-today/) as each year passes. More connected devices will mean a better picture of your eCommerce customer and their behaviors. eCommerce is also likely to build its own integrations with IoT devices — think [Farmstead](https://www.farmsteadapp.com/) integrated with your smart fridge — and this will bring a whole new set of data to process. 
 
-![Retail Analytics - The Internet of Things and the mythical smart fridge](https://cdn.auth0.com/blog/past-present-future/mythical-smart-fridge.jpg)
+<center>
+<img src="https://cdn.auth0.com/blog/past-present-future/mythical-smart-fridge.jpg" alt="Retail Analytics - The Internet of Things and the mythical smart fridge" />
+</center>
 
-[[Source](https://uxmag.com/articles/the-internet-of-things-and-the-mythical-smart-fridge)]

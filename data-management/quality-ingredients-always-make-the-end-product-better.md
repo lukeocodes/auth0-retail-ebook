@@ -4,7 +4,10 @@ A soufflé is actually not that hard to make, *if* you know how to prepare the r
 
 Most people don't think about the quality of their data, but, like the tainted egg whites, if your [data is dirty] (https://en.wikipedia.org/wiki/Dirty_data) your insights will not be trustworthy.
 
-![Data Management](http://4.bp.blogspot.com/-ZiFiWxQAOoU/VSoMfSxSKCI/AAAAAAAAPyw/tNBVivLmdSI/s1600/005b.jpg)
+<center>
+<img src="http://4.bp.blogspot.com/-ZiFiWxQAOoU/VSoMfSxSKCI/AAAAAAAAPyw/tNBVivLmdSI/s1600/005b.jpg" alt="Data Management" />
+</center>
+
 
 Dirty data, such as data with spelling errors or data placed in the wrong field, is a big problem that often goes unnoticed. The power of your analysis is only as good as the [quality of your data](https://www.interana.com/blog/understanding-value-data/). If your data is 99% accurate, your insight might be dead wrong.
 

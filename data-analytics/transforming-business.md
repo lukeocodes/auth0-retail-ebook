@@ -6,7 +6,10 @@ The companies that have embraced data analytics not only outperform their compet
 
 According to the report from [McKinsey Global Institute](https://www.mckinseyonmarketingandsales.com/sites/default/files/pdf/Datamatics.pdf), companies that use data analytics to make decisions across their business have a 23x greater likelihood of customer acquisition, a 6x greater likelihood of reducing customer churn, and a 19x greater likelihood of being profitable.
 
-![Data Analytics - Run the business](https://cdn.auth0.com/blog/datalytics/run-the-business.png)
+<center>
+<img src="https://cdn.auth0.com/blog/datalytics/run-the-business.png" alt="Data Analytics - Run the business" />
+</center>
+
 
 The benefits of using data analytics to drive decisions can impact every aspect of your business including operations, marketing, and product. But you don't have to take our word for it.
 

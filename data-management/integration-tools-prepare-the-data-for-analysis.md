@@ -6,7 +6,10 @@ Integrating your data is exactly the same. Your data that is coming in across al
 
 Data integration is a complicated endeavor when you consider all the structured and unstructured data available to analyze.  There are no one-size-fits-all approaches to data integration, but there are several tools to help automate the integration process of matching, cleaning, and preparing data for analysis.
 
-![Data Integratoon Process hEE](https://cdn.auth0.com/blog/dmi/Data-Integration-Process.png)
+<center>
+<img src="https://cdn.auth0.com/blog/dmi/Data-Integration-Process.png" alt="Data Integratoon Process hEE" />
+</center>
+
 
 Data integrations are complex and technical, but at the core are three steps are known as ETL: extraction, transformation, and loading.
 

@@ -10,7 +10,10 @@ One of the key places that *retail analytics* helps businesses is **optimizing p
 
 When it comes to merchandising, **product appeal** has always been a huge consideration for retailers. With digital marketing and eCommerce, it's only gotten more important. The color of landing pages, the music in product videos, the packaging that an item comes in when someone receives it in the mail — these things are all important factors that replicate the “in-store experience” for digital consumers. And they're things that marketers are testing to optimize for the most appeal to online shoppers, who have their attention going in 700 different directions.
 
-![Retail Analytics - Optimizing Merchandising](https://cdn.auth0.com/blog/past-present-future/optimizing-merchandising.jpg)
+<center>
+<img src="https://cdn.auth0.com/blog/past-present-future/optimizing-merchandising.jpg" alt="Retail Analytics - Optimizing Merchandising" />
+</center>
+
 
 > _"The best packaging [...creates] memorable marketing," [writes](https://www.forbes.com/sites/onmarketing/2014/07/23/the-five-things-product-packaging-must-do/#7cfd6433ac4f) Simon Preece for Forbes._
 
@@ -22,6 +25,9 @@ The digital age birthed more sales channels than ever before, and now it's rushi
 
 **Ad targeting** is another area that can be positively influenced by *retail analytics*. As users login with their social accounts for eCommerce sites, see targeted ads on social media, and are retargeted after purchase, more information about their demographics, habits, likes, and dislikes are gathered. This means that *retail analytics* can streamline ad targeting for happier customers and happier marketers. 
 
-![Retail Analytics - Interest Targeting](https://cdn.auth0.com/blog/past-present-future/but-no-one-else-would-trick.jpg)
+<center>
+<img src="https://cdn.auth0.com/blog/past-present-future/but-no-one-else-would-trick.jpg" alt="Retail Analytics - Interest Targeting" />
+</center>
+
 
 > _[Digitalmarketer](http://www.digitalmarketer.com/facebook-advertising-targeting-options-social/)'s literal ad target shows one way to determine ad interest and reach by using the “but no one else would” trick._

@@ -13,7 +13,9 @@ This type of exploratory big data analytics usually leads to new, macro-level ef
 
 Data analytics, on the other hand, is designed to help you answer questions around [specific business objectives](https://auth0.com/blog/insight-execution-why-analytics-matter/). In the same way a Formula 1 team wants to know which lap is best for a pit stop, data analytics helps you answer questions that help your business win.
 
-![Data Analytics - Big Data](https://blogs.sas.com/content/sascom/files/2014/09/how-big-data-is-changing-IT-business-collaboration.jpg)
-_[Source](https://blogs.sas.com)_
+<center>
+<img src="https://blogs.sas.com/content/sascom/files/2014/09/how-big-data-is-changing-IT-business-collaboration.jpg" alt="Data Analytics - Big Data" />
+</center>
+
 
 Data analytics is the process of using data (facts) to solve problems. Whether you are manually analyzing the data or using an automated analytics application, such as [Interana](https://www.interana.com/) or [DataHero](https://datahero.com/resource/predictive-data-analytics/), data analysis always starts with a question and then examines the data to find answers.

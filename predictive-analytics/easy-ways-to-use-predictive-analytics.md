@@ -10,7 +10,11 @@ A great example of tailoring your marketing efforts based on data is Geckoboard'
 
 They decided to enrich their data to get a more complete view of their users, and use new information about the types of leads they were pulling in to autoscore leads with a more complex system:
 
-![Point Based Lead Scoring](https://cdn.auth0.com/blog/predictive-analysis/advanced-point-based-lead-scoring@1x.png)
+
+<center>
+<img src="https://cdn.auth0.com/blog/predictive-analysis/advanced-point-based-lead-scoring@1x.png" alt="Point Based Lead Scoring" />
+</center>
+
 
 This system was developed based on a combination of user behavior and good data that they automated into their system through the Clearbit API. 
 
@@ -31,7 +35,10 @@ One of the best examples of this is anomaly detection, a security measure that f
 
 This type of security relies on regular user behavior — like not trying to sign in to their account 20 times in a row — and uses it to help keep users safe. You've probably been the beneficiary of protection based on your behavior without even realizing it. An email that says, “we got a login from a new computer or location — is this you?” is another type of identity protection that relies on predicting user behaviors. 
 
-![Dropbox Signin Warning](https://cdn.auth0.com/blog/predictive-analysis/dropbox-signin-warning.png)
+<center>
+<img src="https://cdn.auth0.com/blog/predictive-analysis/dropbox-signin-warning.png" alt="Dropbox Signin Warning" />
+</center>
+
 
 *A security email from Dropbox notes what location, time, web browser and computer are used in a login attempt that doesn't match a users' predicted (i.e. previous) behavior.*
 

@@ -4,7 +4,10 @@ Chocolate soufflés are just like data-driven insights — they are rich, transf
 
 Anyone who has attempted to make a soufflé knows that in order to make it right, you must follow the recipe exactly, prepare the ingredients properly and be methodical with every step of the process. When prepared correctly, a soufflé is magical, but if there is one small error, the whole thing ends in disaster.
 
-![Chocolate Souffle](https://cdn.auth0.com/blog/dmi/Chocolate-Souffle.jpg)
+<center>
+<img src="https://cdn.auth0.com/blog/dmi/Chocolate-Souffle.jpg" alt="Chocolate Souffle" />
+</center>
+
 
 Generating insights from your data works the same way. If you don't have a standard process in place to ensure your data is accurate, usable and secure, your insights will be worthless and even misleading. But unlike the ingredients of a soufflé, managing data is extremely complex and the likelihood of making an error is high.
 

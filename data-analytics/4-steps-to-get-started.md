@@ -8,6 +8,7 @@ Before you dive headfirst into your data, we've put together 4 steps to help you
 <img src="https://cdn.auth0.com/blog/datalytics/four-step-process.png" alt="Data Analytics - Four Step Process" />
 </center>
 
+
 **Step 1: Set clear objectives.** Data analytics should always start with a business objective. Are you trying to reduce fuel costs like UPS or reduce customer churn like T-Mobile? Once you establish your goals, it will be much easier to figure out your questions and the data you will need to find answers.
 
 **Step 2: Identify the right data.** When you know what you want to achieve, the next step is to find the best data and metrics within your technology applications. For example, if you want to [track your customer experience](https://www.zendesk.com/resources/why-companies-should-invest-in-the-customer-experience/) across social and your site, you could use an identity management tool like Auth0 to [collect your customers'](https://auth0.com/blog/360-view-of-customer-by-managing-identity/) social media data.

@@ -6,7 +6,10 @@ A core pillar of DMI is data security. Not a week goes by without news of a mass
 
 One of the biggest data risks within your company has to do with [access management.](https://auth0.com/user-management) A recent survey found that [47%](https://blog.varonis.com/2017-varonis-data-risk-report-47-had-at-least-1000-sensitive-files-exposed/) of companies had at least 1,000 sensitive files open to every employee. Unintentionally giving too much access to employees is a very common problem with dire repercussions.
 
-![Data Management - Safe](https://quip.com/-/blob/PFUAAA5PmMo/CKGRI2qLmwKrQDrWsCXeXA?s=UHW7A8Vnf25t)
+<center>
+<img src="https://quip.com/-/blob/PFUAAA5PmMo/CKGRI2qLmwKrQDrWsCXeXA?s=UHW7A8Vnf25t" alt="Data Management - Safe" />
+</center>
+
 
 U.S. retailer, Target, had a data breach where over 40 million credit cards including pin numbers were stolen. While there were many reasons for the breach, a [_report_](https://krebsonsecurity.com/2015/09/inside-target-corp-days-after-2013-breach/) identified that too many people had access to sensitive data, including remote contractors.
 
