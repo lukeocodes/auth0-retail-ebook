@@ -1,5 +1,7 @@
 # Summary
 
+img?
+
 * [Retail Analytics: Past, Present, and Future](retail-analytics/summary.md)
   * [What can you expect from retail analytics?](retail-analytics/what-can-you-expect.md)
   * [Trends in retail analytics](retail-analytics/trends.md)
