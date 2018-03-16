@@ -1,5 +1,7 @@
 # Predictive Analytics: Why Is It Important?
 
+Predictive analytics is the term used to describe using data to make highly informed guesses about future outcomes.
+
 During the 2010 FIFA World Cup, soccer fans around the world were absolutely captivated — by a German octopus. Paul, as he became known, correctly [predicted](https://en.wikipedia.org/wiki/Paul_the_Octopus) the outcomes of all the games that the German national team played in *and* correctly predicted Spain would win the entire tournament. 
 
 He was heralded as a soothsayer, an oracle, a being somehow able to see into the future. The Spanish Prime Minister even offered him state protection! 

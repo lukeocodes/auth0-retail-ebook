@@ -1,5 +1,7 @@
 # How Data Analytics Can Transform Your Business
 
+Formula 1 races are not won by the size of the engine, the aerodynamics of the car or even the skill of the driver. The difference between winning and losing a race comes down to an unlikely racing tactic: data analytics.
+
 Each car is equipped with over 150 sensors that track key performance stats in real time such as fuel efficiency, tire pressure, brake heat, GPS and wind speeds. Each sensor is a data source that is analyzed to help answer specific questions during the race that gives the team a competitive advantage.
 
 <center>

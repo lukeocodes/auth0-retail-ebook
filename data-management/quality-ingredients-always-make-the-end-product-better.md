@@ -2,7 +2,7 @@
 
 A soufflé is actually not that hard to make, *if* you know how to prepare the right ingredients. For example, the most important ingredient is egg whites, but if the egg whites have any traces of egg yolk, your soufflé will fail.
 
-Most people don't think about the quality of their data, but, like the tainted egg whites, if your [data is dirty] (https://en.wikipedia.org/wiki/Dirty_data) your insights will not be trustworthy.
+Most people don't think about the quality of their data, but, like the tainted egg whites, if your [data is dirty](https://en.wikipedia.org/wiki/Dirty_data) your insights will not be trustworthy.
 
 <center>
 <img src="http://4.bp.blogspot.com/-ZiFiWxQAOoU/VSoMfSxSKCI/AAAAAAAAPyw/tNBVivLmdSI/s1600/005b.jpg" alt="Data Management" />
