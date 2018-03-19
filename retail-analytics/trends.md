@@ -22,7 +22,6 @@ What's happening in *retail analytics* today isn't just refreshed POS analytics.
 <img src="https://cdn.auth0.com/blog/past-present-future/social-media-realtime-sentiments.png" alt="Retail Analytics - Social media real time sentiment analysis" />
 </center>
 
-
 * **Omnichannel analytics.** With all of the different platforms available to customers, and all of the paths customers take to purchase, getting a robust view of how your customers are purchasing across platforms and devices is crucial. While some software, like [Sellbrite](https://www.sellbrite.com/ecommerce-reporting/), include multi-channel eCommerce reporting, companies also turn to their IAM to help them stitch together [customer identities](https://auth0.com/blog/the-three-best-ways-to-create-the-single-vision-of-a-customer/) across channels. This can help eCommerce companies build and track brand experiences.
 
 ## The future 

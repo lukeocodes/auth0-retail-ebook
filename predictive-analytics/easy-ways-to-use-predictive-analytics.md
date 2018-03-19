@@ -26,7 +26,6 @@ Predictive analytics can lead to better sales projections because you are making
 
 Take [Microsoft](https://www.microsoft.com/itshowcase/Article/Content/770/Predictive-analytics-improves-the-accuracy-of-forecasted-sales-revenue) — the company recently revealed that they've ramped up predictive analytics in their sales department in a big way. By integrating predictive analysis into their sales process, they're getting more accurate sales predictions from top down. Here's what they say about how individual reps are helped by predictive analytics: 
 
-
 > “[Our most recent] model uses machine-learning algorithms and opportunity-scoring data for near real-time win/loss predictions of a sale. It helps sellers prioritize by showing whether an opportunity is hot, warm, or cold, and advises them about actions to take.”
 
 ## IAM security

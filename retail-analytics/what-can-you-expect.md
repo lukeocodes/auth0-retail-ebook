@@ -14,9 +14,6 @@ When it comes to merchandising, **product appeal** has always been a huge consid
 <img src="https://cdn.auth0.com/blog/past-present-future/optimizing-merchandising.jpg" alt="Retail Analytics - Optimizing Merchandising" />
 </center>
 
-
-> _"The best packaging [...creates] memorable marketing," [writes](https://www.forbes.com/sites/onmarketing/2014/07/23/the-five-things-product-packaging-must-do/#7cfd6433ac4f) Simon Preece for Forbes._
-
 Another big place that companies are constantly tweaking with the help of *retail analytics* is **pricing**. Companies like [Price Intelligently](http://www.priceintelligently.com/) have made whole businesses off of analyzing how to optimize pricing by digging into data about customers, price points, and pricing strategies. Even companies that aren't outsourcing their pricing strategy are still paying close attention to what their consumer data tells them about how much a customer is willing to pay for their product.
 
 ## Optimizing Marketing
@@ -28,6 +25,3 @@ The digital age birthed more sales channels than ever before, and now it's rushi
 <center>
 <img src="https://cdn.auth0.com/blog/past-present-future/but-no-one-else-would-trick.jpg" alt="Retail Analytics - Interest Targeting" />
 </center>
-
-
-> _[Digitalmarketer](http://www.digitalmarketer.com/facebook-advertising-targeting-options-social/)'s literal ad target shows one way to determine ad interest and reach by using the “but no one else would” trick._
