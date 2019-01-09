@@ -1,4 +1,4 @@
-# Your data at *your* fingertips - Retail analytics with Auth0
+# Your Data at Your Fingertips - Retail Analytics with Auth0
 
 Auth0 unlocks analytics in eCommerce by giving Retailers insight into their users data. Discover a data-driven approach to procurement, merchandising, and marketing.
 
