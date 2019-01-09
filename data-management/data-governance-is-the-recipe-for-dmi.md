@@ -1,4 +1,4 @@
-# Data Governance is the Recipe for DMI
+# Data Governance Is the Recipe for DMI
 
 You can't make a great soufflé without a clear and detailed recipe that describes exactly how to prepare the ingredients, put them together and bake the final product.
 

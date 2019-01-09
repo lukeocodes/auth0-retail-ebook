@@ -1,4 +1,4 @@
-# All you need to know about Data Management and Integration (DMI)
+# All You Need to Know About Data Management and Integration (DMI)
 
 Chocolate soufflés are just like data-driven insights — they are rich, transformative and really hard to create.
 

@@ -1,4 +1,4 @@
-# Data Analytics is Transforming Business
+# Data Analytics Is Transforming Business
 
 Believe it or not, your company creates just as much data as a Formula 1 team, if not more. Every operational task and customer interaction generates valuable data that you can analyze to make better decisions and uncover insights with the power to transform your business.
 

@@ -1,4 +1,4 @@
-# Protect Your Soufflé at all Costs
+# Protect Your Soufflé at All Costs
 
 After painstakingly preparing your soufflé, you don't want any unauthorized people in the kitchen to mess with it. If you turn your back for one second and someone opens the oven door, both your soufflé and your mood will be deflated.
 

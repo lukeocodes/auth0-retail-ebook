@@ -1,4 +1,4 @@
-# Data Analytics is Worthless Without You
+# Data Analytics Is Worthless Without You
 
 A lot of hype is built around data and its potential to improve business or even change the world. The reality is that data is worthless until it is processed and analyzed to answer questions.
 

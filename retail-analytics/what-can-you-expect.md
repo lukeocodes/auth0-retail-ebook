@@ -1,8 +1,8 @@
-# What can you expect from retail analytics?
+# What Can You Expect from Retail Analytics?
 
 When something encompasses production through sales, its possibilities seem almost endless. Right now, though, the big uses for *retail analytics* center on optimizing procurement, optimizing merchandising, and optimizing marketing.
 
-## Optimizing procurement
+## Optimizing Procurement
 
 One of the key places that *retail analytics* helps businesses is **optimizing procurement**. By better predicting sales numbers, procurement and stocking gets more efficient. Retailers can also better see the cost balance for a given materials vendor, with more visibility into how the different purchases from a single vendor add up. 
 

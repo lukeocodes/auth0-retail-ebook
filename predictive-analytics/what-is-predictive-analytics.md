@@ -1,4 +1,4 @@
-# What is predictive analytics?
+# What Is Predictive Analytics?
 
 Simply put, predictive analytics is using data to make highly informed guesses about future outcomes. For businesses, the most common application of this is in [user behavior](https://amplitude.com/blog/2016/06/14/10-steps-behavioral-analytics/). By observing what past users have done, you should be able to better understand what future users will do. Businesses use this to shape users' paths to increase predictability. 
 

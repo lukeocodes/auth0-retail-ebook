@@ -1,4 +1,4 @@
-# Keep looking into the crystal ball
+# Keep Looking into the Crystal Ball
 
 Predictive analytics isn't a short-haul adventure. And when you start to see the power of what your data can do, you'll want to dive in with both feet. 
 

@@ -1,4 +1,4 @@
-# How does IAM contribute to predictive analytics?
+# How Does Iam Contribute to Predictive Analytics?
 
 There are a number of ways that IAM can contribute to predictive analytics, but one of the biggest and most underutilized is gathering information with your identity management system. Login can give you a window into who your users are, what they're doing, when they're doing it and how often. 
 

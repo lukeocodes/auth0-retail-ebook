@@ -1,4 +1,4 @@
-# Easy ways to use predictive analytics
+# Easy Ways to Use Predictive Analytics
 
 The potential of predictive analytics is huge, but it's a complex field that can be intimidating to unravel. Here are some of the easier ways to use predictive analytics — but keep in mind that even the simplest application will still require that rigorous back-end work to be successful. 
 
@@ -20,7 +20,7 @@ This system was developed based on a combination of user behavior and good data 
 
 These tactics are obviously not limited to discounts or leads — they could be different email copy, coupons, or ads that speak to the likely purchases, desires and vulnerabilities of a given consumer. 
 
-## Sales revenue
+## Sales Revenue
 
 Predictive analytics can lead to better sales projections because you are making a more concerted effort to collect data on customers and use it to predict outcomes. 
 
@@ -28,7 +28,7 @@ Take [Microsoft](https://www.microsoft.com/itshowcase/Article/Content/770/Predic
 
 > “[Our most recent] model uses machine-learning algorithms and opportunity-scoring data for near real-time win/loss predictions of a sale. It helps sellers prioritize by showing whether an opportunity is hot, warm, or cold, and advises them about actions to take.”
 
-## IAM security
+## IAM Security
 
 One of the best examples of this is anomaly detection, a security measure that flags unusual behaviors to keep users safe. For example, Auth0 offers [brute force protection](https://auth0.com/docs/anomaly-detection), which allows you to trigger security measures if someone makes too many attempts on a login. 
 
